@@ -1,0 +1,125 @@
+body{
+	margin: 0!important;
+	padding: 0!important;
+}
+.container-fluid{
+	margin: 0!important;
+	padding: 0!important;
+}
+.navbar{
+	background:transparent;
+}
+
+.phoneicon{
+	 position: fixed;
+     bottom: 1%;
+    z-index: 999999;
+    right: 1%;
+    top: inherit;
+    border-radius: 50%;
+    padding: 20px 30px;
+	font-size: 50px;
+	color: #f39c12;
+}
+.about-container{
+	margin: 0 ;
+	padding: 0 0 10% 0;
+	width: 100%;
+	background: #F1F1F1;
+}
+.about{
+  width: 100%;
+ padding:3% ;
+ text-align: center;
+ /* border-bottom: 1px solid #f39c12;  */
+ 
+}
+.row-about{
+	margin-left: 42%;
+}
+.about-flex{
+	display: flex;
+	width: 100%;
+
+}
+.about-client{
+	width: 50%;
+	padding-left: 25%;
+}
+.about-team{
+	width: 50%;
+	padding-left: 19%;
+
+}
+.client-container{
+	background-image: 
+	url("/home/ritu/nvt/bootstrap-3.3.7-dist/assets/download (1).jpg");
+
+	background-size:cover;
+	background-attachment: fixed;
+	 background-repeat: no-repeat; 
+	background-position: center; 
+	width: 100%;
+}
+.client{
+	padding: 0 0 10% 0;
+}
+.service-container{
+	/* background-image: url("/home/ritu/nvt/bootstrap-3.3.7-dist/assets/iStock_000072549603_Medium.jpg"),
+	 linear-gradient(to right, rgba(37,106,129,0.7) 0%,rgba(247,148,30,0.6) 100%); */
+	 background-image: url("/home/ritu/nvt/bootstrap-3.3.7-dist/assets/16_grey_abstract.jpg");
+	background-size:cover;
+	background-attachment: fixed;
+	 background-repeat: no-repeat; 
+	background-position: center; 
+	width: 100%;
+	color: black;
+	padding: 0 0 10% 0;
+}
+.project-container{
+	margin: 0 ;
+	padding: 0 0 1% 0;
+	width: 100%;
+	background: #F1F1F1;
+
+}
+
+.team-container{
+
+	background: #F1F1F1;
+	background-size:cover;
+	background-attachment: fixed; 
+	background-position: center;
+	background-repeat: no-repeat;
+
+}
+
+.contact-container{
+	background-image: url("/home/ritu/nvt/bootstrap-3.3.7-dist/assets/contact-us-3.jpg");
+   background-size:cover;
+   background-attachment: fixed; 
+   background-position: center;
+   background-repeat: no-repeat;
+   margin: 0!important;
+   padding: 0!important;
+   color: snow;
+
+}
+.service-row{
+	text-align: center;
+}
+
+.Contactform{
+	margin: 2%;
+	color: gainsboro;
+}
+.form-control{
+	background: transparent;
+}
+.navbar-light{
+    border-bottom: 3px solid #E66432
+}
+
+
+
+
